@@ -82,7 +82,7 @@ Verify that on the Welcome screen you see that there are `19 Layers` in the Main
 
 If everything is working, clean up by deleting the local geoserver cloned repo.
 
-_Deliverable: Take a screenshot of your GeoServer Welcome screen showing the 19 Layers. Name it `screenshot.png and add it to a new GitHub branch named `solution`. 
+_Deliverable: Take a screenshot of your GeoServer Welcome screen showing the 19 Layers. Name it `screenshot.png` and add it to a new GitHub branch named `solution`. 
 
 ### 7. Turn in your work via GitHub Pull Request. 
 

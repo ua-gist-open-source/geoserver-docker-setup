@@ -27,13 +27,13 @@ There are a number of geoserver docker containers which have been created and pu
 Pull the image as in the instructions to download the latest version:
 
 ```
-docker pull kartoza/geoserver:2.15.2
+docker pull kartoza/geoserver:2.18.0
 ```
 
 Run the docker container to give yourself a quick test that you have a working container:
 
 ```
-docker run -p 8080:8080 kartoza/geoserver:2.15.2
+docker run -p 8080:8080 kartoza/geoserver:2.18.0
 ```
 
 This will run geoserver in a container and expose the port `8080` from the docker container as `8080` on your host system (i.e., your Desktop or laptop). It will take a minute for geoserver to start up. Watch the terminal output for a message indicating that Geoserver is running; it will look like this: 

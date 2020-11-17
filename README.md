@@ -22,7 +22,7 @@ In a typical scenario, GeoServer would be run as a server on dedicated server ha
 
 ### 1) Pull the geoserver docker container.
 
-There are a number of geoserver docker containers which have been created and published on docker hub. The one will be using is `kartoza/geoserver:2.15.2`. Visit https://hub.docker.com and search for `geoserver`. The container you will use should be one of the most popular. Take a minute to look at the number of Downloads, Stars, and the date it was last updated. As of September, 2019, `kartoza/geoserver` had 76 Stars compared to the 20 stars for the next two. Explore this docker container by clicking on it in the list of other geoserver containers. It will take you to https://hub.docker.com/r/kartoza/geoserver where you can read instructions on usage, look at its Tags, see the source Dockerfile, and other details about its build history.
+There are a number of geoserver docker containers which have been created and published on docker hub. The one will be using is `kartoza/geoserver:2.18.0`. Visit https://hub.docker.com and search for `geoserver`. The container you will use should be one of the most popular. Take a minute to look at the number of Downloads, Stars, and the date it was last updated. As of September, 2019, `kartoza/geoserver` had 76 Stars compared to the 20 stars for the next two. Explore this docker container by clicking on it in the list of other geoserver containers. It will take you to https://hub.docker.com/r/kartoza/geoserver where you can read instructions on usage, look at its Tags, see the source Dockerfile, and other details about its build history.
 
 Pull the image as in the instructions to download the latest version:
 

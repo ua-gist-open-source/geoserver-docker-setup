@@ -1,4 +1,4 @@
-# Assignment: Geoserver Intro
+# Assignment: Geoserver Docker Setup
 ## Worth: 40 points
 ## Due: 7 Days
 

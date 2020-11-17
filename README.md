@@ -1,6 +1,6 @@
 # Assignment: Geoserver Intro
 ## Worth: 40 points
-## Due: Monday, April 15, 11:59pm
+## Due: 7 Days
 
 ## Objective: Run geoserver in a docker container with sample data
 

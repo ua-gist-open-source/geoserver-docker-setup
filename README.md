@@ -80,8 +80,6 @@ Visit http://localhost:8080/geoserver and make sure it is running. Login as admi
 
 Verify that on the Welcome screen you see that there are `19 Layers` in the Main content area. 
 
-If everything is working, clean up by deleting the local geoserver cloned repo.
-
 _Deliverable: Take a screenshot of your GeoServer Welcome screen showing the 19 Layers. Name it `screenshot.png` and add it to a new GitHub branch named `solution`. 
 
 ### 7. Turn in your work via GitHub Pull Request. 

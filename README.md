@@ -31,7 +31,7 @@ docker pull kartoza/geoserver
 Run the docker container to give yourself a quick test that you have a working container:
 
 ```
-docker run -p 8180:8080 kartoza/geoserver
+docker run -p 8180:8080 -e GEOSERVER_ADMIN_USER=admin -e GEOSERVER_ADMIN_PASSWORD=geoserver kartoza/geoserver
 ```
 
 This will run geoserver in a container and expose the port `8080` from the docker container as `8180` on your host system (i.e., your Desktop or laptop). It will take a minute for geoserver to start up. Watch the terminal output for a message indicating that Geoserver is running; it will look like this: 

@@ -58,7 +58,7 @@ Use `docker ps` to see its status and make sure it is not running.
 ### 4) Run kartoza/geoserver with sample data
 Finally, run the docker container with built-in sample data:
 ```
-docker run -e SAMPLE_DATA=true -p 8180:8080 kartoza/geoserver
+docker run -e SAMPLE_DATA=true -e GEOSERVER_ADMIN_USER=admin -e GEOSERVER_ADMIN_PASSWORD=geoserver -p 8180:8080 kartoza/geoserver
 ```
 
 ### 5) Test it out
